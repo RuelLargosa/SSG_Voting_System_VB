@@ -1,0 +1,13 @@
+# SSG_Voting_System_VB 2019
+![1](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/10802090-d807-4075-89bd-b2b96bd54050)
+![2](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/2d4f2476-cbdd-4a11-a40b-414c1553eb4a)
+![3](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/30749aa0-c958-4b5a-8600-223ba44771fe)
+![4](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/3a227433-6b23-47c4-ba99-d76fab24fb82)
+![5](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/a0cd6dad-3d64-40e4-adba-967337180190)
+![6](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/fffceee4-ebf7-486e-9220-b047839fc9c7)
+![7](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/c93ec702-8e63-4037-a0c4-9b4a2fbfb858)
+![8](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/c827264d-b91b-49d2-8c01-82b645f33ee8)
+![9](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/a4b816b8-727b-4e8c-8a4b-aa41a026cdeb)
+![10](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/6936834e-a8b1-469b-ba30-b0561ba898d6)
+![11](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/56edb30e-fe29-402b-b1ce-580f6c798638)
+![12](https://github.com/RuelLargosa/SSG_Voting_System_VB/assets/136546978/36ef9286-e77c-49be-a1a8-5eee78bb3b92)
